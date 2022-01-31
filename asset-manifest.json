@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/cryptouni/static/css/main.0d509b07.css",
-    "main.js": "/cryptouni/static/js/main.d3df0688.js",
+    "main.js": "/cryptouni/static/js/main.fa9c97f1.js",
     "static/media/cryptocurrency.png": "/cryptouni/static/media/cryptocurrency.1548aced3f0605895bac.png",
     "index.html": "/cryptouni/index.html",
     "main.0d509b07.css.map": "/cryptouni/static/css/main.0d509b07.css.map",
-    "main.d3df0688.js.map": "/cryptouni/static/js/main.d3df0688.js.map"
+    "main.fa9c97f1.js.map": "/cryptouni/static/js/main.fa9c97f1.js.map"
   },
   "entrypoints": [
     "static/css/main.0d509b07.css",
-    "static/js/main.d3df0688.js"
+    "static/js/main.fa9c97f1.js"
   ]
 }
